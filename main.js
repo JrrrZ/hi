@@ -1,1 +1,1 @@
-awjowa 
+var x = 10;
